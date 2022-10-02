@@ -119,9 +119,9 @@ Bethany Hammons {#title}
 ```{r}
 intro_text <- "Experienced Office Management and Administrative Professional with 3 years of experience optimixing productivity, efficiency and service quality across various environments. Highly dependable, ethical and reliable support speicalist and leader that blends advanced organizational, technical and business acumen. Works effectively with coss-functional teams in ensuring operational and service excellence. 
 
-Currently searching for position in program evaluation that allows me to use data science experience and education to buildd tools using visualization and machine learning to help people explore and understand their data.
+Currently searching for position in program evaluation that allows me to use data science experience and education to build tools using visualization and machine learning to help people explore and understand their data.
 
-*Not all of the information included in this resume is accurate. This is a fictional resume created as part of CPP-527 and is not intended for use in real-life employment inquiries. 
+*Not all of the information included in this resume is accurate. This is a fictional resume created as part of CPP-527 and is not intended for use in real-life employment inquiries."
 
 cat(sanitize_links(intro_text))
 ```
